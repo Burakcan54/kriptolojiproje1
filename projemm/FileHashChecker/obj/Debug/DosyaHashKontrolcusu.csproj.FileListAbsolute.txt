@@ -1,0 +1,11 @@
+C:\Users\Ibrahim Kosal\source\repos\FileHashChecker-main\FileHashChecker-main\FileHashChecker\FileHashChecker\bin\Debug\FileHashChecker.exe.config
+C:\Users\Ibrahim Kosal\source\repos\FileHashChecker-main\FileHashChecker-main\FileHashChecker\FileHashChecker\bin\Debug\FileHashChecker.exe
+C:\Users\Ibrahim Kosal\source\repos\FileHashChecker-main\FileHashChecker-main\FileHashChecker\FileHashChecker\bin\Debug\FileHashChecker.pdb
+C:\Users\Ibrahim Kosal\source\repos\FileHashChecker-main\FileHashChecker-main\FileHashChecker\FileHashChecker\obj\Debug\DosyaHashKontrolcusu.csproj.AssemblyReference.cache
+C:\Users\Ibrahim Kosal\source\repos\FileHashChecker-main\FileHashChecker-main\FileHashChecker\FileHashChecker\obj\Debug\DosyaHashKontrolcusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ibrahim Kosal\source\repos\FileHashChecker-main\FileHashChecker-main\FileHashChecker\FileHashChecker\obj\Debug\FileHashChecker.DHK.resources
+C:\Users\Ibrahim Kosal\source\repos\FileHashChecker-main\FileHashChecker-main\FileHashChecker\FileHashChecker\obj\Debug\FileHashChecker.Properties.Resources.resources
+C:\Users\Ibrahim Kosal\source\repos\FileHashChecker-main\FileHashChecker-main\FileHashChecker\FileHashChecker\obj\Debug\DosyaHashKontrolcusu.csproj.GenerateResource.cache
+C:\Users\Ibrahim Kosal\source\repos\FileHashChecker-main\FileHashChecker-main\FileHashChecker\FileHashChecker\obj\Debug\DosyaHashKontrolcusu.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Kosal\source\repos\FileHashChecker-main\FileHashChecker-main\FileHashChecker\FileHashChecker\obj\Debug\FileHashChecker.exe
+C:\Users\Ibrahim Kosal\source\repos\FileHashChecker-main\FileHashChecker-main\FileHashChecker\FileHashChecker\obj\Debug\FileHashChecker.pdb
